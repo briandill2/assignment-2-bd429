@@ -1,9 +1,10 @@
 output_dir: "."
 navbar:
+  title: "Our Collaborative Website"
   left:
     - text: "Home"
       href: index.html
     - text: "Brian"
       href: Brian.html
-output:
-  theme: cerulean
+
+
