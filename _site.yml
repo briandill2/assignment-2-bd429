@@ -1,10 +1,7 @@
-name: "Brian-wewbsite"
 output_dir: "."
 navbar:
-  title: "Assignment 2 Website"
   left:
-      -text: "Home"
+    - text: "Home"
       href: index.html
-      -test: "Brian"
+    - text: "Brian"
       href: Brian.html
-theme: darkly
