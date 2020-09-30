@@ -5,3 +5,5 @@ navbar:
       href: index.html
     - text: "Brian"
       href: Brian.html
+output:
+  theme: cerulean
