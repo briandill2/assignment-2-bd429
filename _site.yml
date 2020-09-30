@@ -1,0 +1,9 @@
+output_dir: "."
+navbar:
+  title: "Assignment 2 Website"
+  left:
+      -text: "Home"
+       href: index.html
+      -test: "Brian"
+       href: Brian.html
+theme: darkly
