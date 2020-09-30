@@ -8,5 +8,5 @@ navbar:
       href: Brian.html
 output:
   html_document:
-    theme: cerulean
+    theme: spacelab
 
