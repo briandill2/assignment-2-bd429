@@ -6,7 +6,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-My name is Brian Dillard, and with this page, I will tell you about myself!
+### My name is Brian Dillard, and with this page, I will tell you about myself!
 
 
 * I am a PhD student in the ecology and evolutionary biology department at Cornell.
