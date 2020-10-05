@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "Brian"
       href: Brian.html
+    - text: "Sylvia"
+      href: Sylvia.html
 output:
   html_document:
     theme: cosmo
