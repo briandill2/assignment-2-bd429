@@ -7,7 +7,7 @@ navbar:
     - text: "Brian"
       href: Brian.html
     - text: "Sylvia"
-      href: Sylvia.html
+      href: sylvia.html
 output:
   html_document:
     theme: cosmo
