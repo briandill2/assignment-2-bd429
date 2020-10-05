@@ -1,0 +1,12 @@
+---
+title: "Sylvia"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* Rock climbing
+* Cat
+* Sleep 18 hrs
